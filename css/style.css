@@ -117,7 +117,7 @@ a {
     width: 100%;
     height: 765px;
     padding-top: 100px;
-    background: url("../img/main-image.png") no-repeat left top;
+    background: url(../img/main-image.png) no-repeat left top;
 }
 
 .form-img {
